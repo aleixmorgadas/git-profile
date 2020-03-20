@@ -1,3 +1,3 @@
 # git-profile
 
-![](https://github.com/aleixmorgadas/git-profile/workflows/.github/workflows/nodejs.yml/badge.svg)
+![](https://github.com/aleixmorgadas/git-profile/workflows/Node.js%20CI/badge.svg)
