@@ -1,0 +1,26 @@
+{
+  "name": "git-profile",
+  "version": "0.0.1",
+  "description": "command tool to set git profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleixmorgadas/git-profile.git"
+  },
+  "keywords": [
+    "git",
+    "cli-app"
+  ],
+  "author": "Aleix Morgadas <aleix.mp@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleixmorgadas/git-profile/issues"
+  },
+  "homepage": "https://github.com/aleixmorgadas/git-profile#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
