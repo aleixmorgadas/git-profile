@@ -22,6 +22,12 @@ It will promp the profile name, your name and email for the new profile.
 $> git-profile new
 ```
 
+You can also specify the info as command arguments
+
+```text
+$> git-profile new <profile-name> --name="Your cool name" --email="email@usedingithub.com"
+```
+
 __Using a profile in your git project__:
 
 ```text

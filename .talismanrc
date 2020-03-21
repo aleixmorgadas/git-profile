@@ -1,6 +1,6 @@
 fileignoreconfig:
 - filename: package-lock.json
-  checksum: 18893d8c37aa0f644432eadaee22ae7a7d11482cd4449e4c59cf7c7233707505
+  checksum: 4dfdffdb1270e72685aa90dd182a8dd154c4a563912b9b0194417d26beb25267
   ignore_detectors: []
   
 - filename: jest.config.js
